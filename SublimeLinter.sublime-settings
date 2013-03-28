@@ -1,0 +1,20 @@
+{
+  // jshint: options for linting JavaScript. See http://www.jshint.com/options/ for more info.
+  // By deault, eval is allowed.
+  "jshint_options": {
+    "evil": true,
+    "regexdash": true,
+    "browser": true,
+    "wsh": true,
+    "trailing": true,
+    "sub": true,
+    "curly": true,
+    "eqeqeq": false,
+    "eqnull": true
+  },
+
+  "pep8_ignore":
+  [
+    "E111", "E501"
+  ]
+}

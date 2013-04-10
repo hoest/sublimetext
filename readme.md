@@ -10,5 +10,6 @@ First install [Package Control](http://wbond.net/sublime_packages/package_contro
 * Emmet
 * Git
 * LESS
+* PowerShell
 * SublimeLinter
 * XSLT Snippets

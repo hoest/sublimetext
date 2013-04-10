@@ -10,6 +10,7 @@
     "LESS",
     "Package Control",
     "PowerShell",
-    "SublimeLinter"
+    "SublimeLinter",
+    "Surround"
   ]
 }

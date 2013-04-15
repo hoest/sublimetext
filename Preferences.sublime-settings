@@ -8,9 +8,6 @@
   "ensure_newline_at_eof_on_save": true,
   "fallback_encoding": "UTF-8",
   "highlight_line": true,
-  "ignored_packages":
-  [
-  ],
   "indent_guide_options":
   [
     "draw_normal",
@@ -26,6 +23,5 @@
   "tab_size": 2,
   "translate_tabs_to_spaces": true,
   "trim_trailing_white_space_on_save": true,
-  "vintage_start_in_command_mode": true,
   "word_wrap": true
 }

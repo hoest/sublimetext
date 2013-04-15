@@ -1,27 +1,31 @@
 {
   "auto_complete_commit_on_tab": true,
-  "auto_complete_with_fields": true,
-  "color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
-  "detect_indentation": true,
-  "detect_slow_plugins": false,
-  "draw_white_space": "all",
-  "ensure_newline_at_eof_on_save": true,
-  "fallback_encoding": "UTF-8",
-  "highlight_line": true,
-  "indent_guide_options":
-  [
-    "draw_normal",
-    "draw_active"
-  ],
-  "open_files_in_new_window": false,
-  "rulers":
-  [
-    80,
-    120
-  ],
-  "scroll_past_end": false,
-  "tab_size": 2,
-  "translate_tabs_to_spaces": true,
-  "trim_trailing_white_space_on_save": true,
-  "word_wrap": true
+	"auto_complete_with_fields": true,
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"detect_indentation": true,
+	"detect_slow_plugins": false,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"fallback_encoding": "UTF-8",
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"open_files_in_new_window": false,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"scroll_past_end": false,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
 }

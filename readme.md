@@ -7,14 +7,15 @@ Plugins
 First install [Package Control](http://wbond.net/sublime_packages/package_control)
 
 * AdvancedNewFile
+* All Autocomplete
 * CoffeeScript
-* Emmet
 * F#
 * Git
+* GitGutter
 * Indent XML
 * jQuery
 * LESS
 * Package Control
 * PowerShell
 * SublimeLinter
-* Surround
+* XSLT Snippet

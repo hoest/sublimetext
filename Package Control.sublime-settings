@@ -1,18 +1,19 @@
 {
-  "auto_upgrade_last_run": null,
-  "installed_packages":
-  [
-    "AdvancedNewFile",
-    "CoffeeScript",
-    "Emmet",
-    "F#",
-    "Git",
-    "Indent XML",
-    "jQuery",
-    "LESS",
-    "Package Control",
-    "PowerShell",
-    "SublimeLinter",
-    "Surround"
-  ]
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"CoffeeScript",
+		"F#",
+		"Git",
+		"GitGutter",
+		"Indent XML",
+		"jQuery",
+		"LESS",
+		"Package Control",
+		"PowerShell",
+		"SublimeLinter",
+		"XSLT Snippets"
+	]
 }

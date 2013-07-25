@@ -2,7 +2,7 @@
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_with_fields": true,
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (light).tmTheme",
 	"detect_indentation": false,
 	"detect_slow_plugins": false,
 	"draw_white_space": "all",
@@ -17,6 +17,10 @@
 		"CVS",
 		"dist",
 		"build"
+	],
+	"font_options":
+	[
+		"directwrite"
 	],
 	"highlight_line": true,
 	"ignored_packages":

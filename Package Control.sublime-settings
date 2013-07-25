@@ -2,8 +2,6 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
-		"AdvancedNewFile",
-		"All Autocomplete",
 		"CoffeeScript",
 		"F#",
 		"Git",
@@ -13,6 +11,7 @@
 		"LESS",
 		"Package Control",
 		"PowerShell",
+		"Solarized Color Scheme",
 		"SublimeLinter",
 		"XSLT Snippets"
 	]

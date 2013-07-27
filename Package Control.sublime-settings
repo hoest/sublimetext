@@ -4,13 +4,13 @@
 	[
 		"CoffeeScript",
 		"F#",
-		"Git",
 		"GitGutter",
 		"Indent XML",
 		"jQuery",
 		"LESS",
 		"Package Control",
 		"PowerShell",
+		"SublimeGit",
 		"SublimeLinter",
 		"Theme - Soda",
 		"XSLT Snippets"

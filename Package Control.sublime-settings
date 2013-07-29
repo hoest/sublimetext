@@ -4,11 +4,12 @@
 	[
 		"CoffeeScript",
 		"F#",
+		"Git",
 		"GitGutter",
 		"Indent XML",
 		"LESS",
 		"Package Control",
-		"SublimeGit",
+		"Solarized Color Scheme",
 		"SublimeLinter",
 		"Theme - Soda",
 		"XSLT Snippets"

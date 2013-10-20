@@ -1,0 +1,3 @@
+{
+  "use_extensions": ["", ".xml", ".coffee", ".hbs", ".jade", ".js", ".scss", ".sass", ".styl", ".less"]
+}

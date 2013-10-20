@@ -1,3 +1,4 @@
 {
+  "create_if_not_exists" : true,
   "use_extensions": ["", ".xml", ".coffee", ".hbs", ".jade", ".js", ".scss", ".sass", ".styl", ".less"]
 }

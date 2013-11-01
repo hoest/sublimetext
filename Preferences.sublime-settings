@@ -30,7 +30,7 @@
 		"draw_normal",
 		"draw_active"
 	],
-	"indent_subsequent_lines": false,
+	"indent_subsequent_lines": true,
 	"indent_to_bracket": true,
 	"open_files_in_new_window": false,
 	"rulers":
@@ -39,7 +39,6 @@
 		79
 	],
 	"tab_size": 2,
-	"theme": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true,

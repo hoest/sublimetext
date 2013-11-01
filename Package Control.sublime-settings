@@ -3,8 +3,7 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
-		"CoffeeScript",
-		"Emmet",
+		"Better CoffeeScript",
 		"F#",
 		"Git",
 		"GitGutter",
@@ -16,7 +15,6 @@
 		"PowerShell",
 		"Solarized Color Scheme",
 		"SublimeLinter",
-		"Theme - Soda",
 		"XSLT Snippets"
 	]
 }

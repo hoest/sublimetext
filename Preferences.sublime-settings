@@ -19,11 +19,10 @@
 		"dist",
 		"build"
 	],
-	"highlight_line": true,
+	"highlight_line": false,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage"
 	],
 	"indent_guide_options":
 	[

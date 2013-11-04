@@ -19,7 +19,7 @@
 		"dist",
 		"build"
 	],
-	"highlight_line": false,
+	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[

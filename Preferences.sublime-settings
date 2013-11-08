@@ -4,7 +4,6 @@
 	"close_windows_when_empty": false,
 	"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
 	"detect_indentation": false,
-	"detect_slow_plugins": false,
 	"drag_text": false,
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,

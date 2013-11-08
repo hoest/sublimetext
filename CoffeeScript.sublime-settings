@@ -1,0 +1,8 @@
+{
+  "noWrapper": false,
+  "checkSyntaxOnSave": true,
+  "lintOnSave": true,
+  "watchOnSave": false,
+  "compileOnSave": true,
+  "compileDir": "../js/"
+}

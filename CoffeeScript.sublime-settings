@@ -1,8 +1,6 @@
 {
-  "noWrapper": false,
-  "checkSyntaxOnSave": true,
-  "lintOnSave": true,
-  "watchOnSave": false,
+  "compileDir": "../js/",
   "compileOnSave": true,
-  "compileDir": "../js/"
+  "noWrapper": false,
+  "watchOnSave": false
 }

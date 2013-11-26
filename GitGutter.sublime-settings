@@ -1,5 +1,5 @@
 {
   "live_mode": false,
-  "focus_change_mode": false,
+  "focus_change_mode": true,
   "non_blocking": true
 }

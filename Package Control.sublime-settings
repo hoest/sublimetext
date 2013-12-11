@@ -8,6 +8,7 @@
 		"F#",
 		"Git",
 		"GitGutter",
+		"InfoProjects-SublimeText",
 		"Jinja2",
 		"LESS",
 		"Open-Include",
@@ -19,6 +20,7 @@
 	],
 	"repositories":
 	[
-		"https://github.com/hoest/SublimeXDL"
+		"https://github.com/hoest/SublimeXDL",
+		"https://github.com/hoest/InfoProjects-SublimeText.git"
 	]
 }

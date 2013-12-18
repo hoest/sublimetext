@@ -15,6 +15,11 @@
 		"Package Control",
 		"PowerShell",
 		"Solarized Color Scheme",
+		"SublimeLinter",
+		"SublimeLinter-coffeelint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-flake8",
+		"SublimeLinter-jshint",
 		"SublimeXDL",
 		"XSLT Snippets"
 	],

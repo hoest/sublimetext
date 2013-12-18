@@ -4,7 +4,7 @@
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_with_fields": true,
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
+	"color_scheme": "Packages/User/Solarized (dark) (SL).tmTheme",
 	"detect_indentation": false,
 	"drag_text": false,
 	"draw_white_space": "all",

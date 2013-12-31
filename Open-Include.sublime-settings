@@ -1,5 +1,4 @@
 {
-  "create_if_not_exists" : true,
   "auto_extension" : [
     {
       "extension": ".scss",

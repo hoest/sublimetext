@@ -36,6 +36,7 @@
             }
         },
         "mark_style": "outline",
+        "no_column_highlights_line": false,
         "paths": {
             "linux": [],
             "osx": [

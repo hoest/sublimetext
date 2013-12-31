@@ -1,4 +1,21 @@
 {
   "create_if_not_exists" : true,
-  "use_extensions": ["", ".xml", ".coffee", ".hbs", ".jade", ".js", ".scss", ".sass", ".styl", ".less"]
+  "auto_extension" : [
+    {
+      "extension": ".scss",
+      "prefix"   : "_"
+    },
+    {
+      "extension": ".xml"
+    },
+    {
+      "extension": ".coffee"
+    },
+    {
+      "extension": ".js"
+    },
+    {
+      "extension": ".less"
+    }
+  ]
 }

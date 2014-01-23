@@ -23,6 +23,7 @@
             "flake8": {
                 "@disable": false,
                 "args": [],
+                "builtins": "",
                 "excludes": [],
                 "ignore": "E111,E501,E391,E121",
                 "max-complexity": -1,
@@ -30,6 +31,11 @@
                 "select": ""
             },
             "jshint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "xmllint": {
                 "@disable": false,
                 "args": [],
                 "excludes": []
@@ -57,6 +63,7 @@
             "windows": []
         },
         "rc_search_limit": 3,
+        "shell_timeout": 10,
         "show_errors_on_save": false,
         "show_marks_in_minimap": true,
         "syntax_map": {

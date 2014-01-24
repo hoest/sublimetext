@@ -1,6 +1,6 @@
 {
     "user": {
-        "debug": false,
+        "debug": true,
         "delay": 0.25,
         "error_color": "D02000",
         "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default.gutter-theme",
@@ -68,6 +68,7 @@
         "show_marks_in_minimap": true,
         "syntax_map": {
             "php": "html",
+            "xdl": "xml",
             "xslt": "xml"
         },
         "warning_color": "DDB700",

@@ -3,7 +3,6 @@
 	"atomic_save": false,
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_with_fields": true,
-	"caret_style": "solid",
 	"close_windows_when_empty": false,
 	"color_scheme": "Packages/User/Solarized (dark) (SL).tmTheme",
 	"detect_indentation": false,
@@ -25,9 +24,11 @@
 	[
 		"directwrite"
 	],
+	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"Vintage"
 	],
 	"indent_guide_options":
 	[
@@ -48,6 +49,5 @@
 	"theme": "Soda Light 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"vintage_start_in_command_mode": true,
 	"word_wrap": true
 }

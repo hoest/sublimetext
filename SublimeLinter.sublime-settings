@@ -35,6 +35,11 @@
                 "args": [],
                 "excludes": []
             },
+            "json": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
             "xmllint": {
                 "@disable": false,
                 "args": [],

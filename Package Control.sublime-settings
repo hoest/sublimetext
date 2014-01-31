@@ -21,6 +21,7 @@
 		"SublimeLinter-csslint",
 		"SublimeLinter-flake8",
 		"SublimeLinter-jshint",
+		"SublimeLinter-json",
 		"SublimeLinter-xmllint",
 		"SublimeXDL",
 		"Theme - Soda",

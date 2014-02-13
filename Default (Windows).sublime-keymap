@@ -1,0 +1,4 @@
+[
+  { "keys": ["ctrl+w"], "command": "close_file" },
+  { "keys": ["alt+f4"], "command": "close" }
+]

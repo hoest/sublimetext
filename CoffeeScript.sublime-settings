@@ -2,5 +2,6 @@
   "compileDir": "../js/",
   "compileOnSave": true,
   "noWrapper": false,
+  "sourceMaps": true,
   "watchOnSave": false
 }

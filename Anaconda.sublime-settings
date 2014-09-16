@@ -1,3 +1,4 @@
 {
-  "python_interpreter": "/usr/local/bin/python"
+  "python_interpreter": "/usr/local/bin/python",
+  "anaconda_linting": false
 }

@@ -40,7 +40,8 @@
 	"rulers":
 	[
 		72,
-		79
+		79,
+		120
 	],
 	"show_encoding": true,
 	"show_line_endings": true,

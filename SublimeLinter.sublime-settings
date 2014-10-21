@@ -26,6 +26,7 @@
                 "builtins": "",
                 "excludes": [],
                 "ignore": "E111,E501,E391,E121",
+                "jobs": "1",
                 "max-complexity": -1,
                 "max-line-length": null,
                 "select": ""
@@ -38,7 +39,8 @@
             "json": {
                 "@disable": false,
                 "args": [],
-                "excludes": []
+                "excludes": [],
+                "strict": true
             },
             "xmllint": {
                 "@disable": false,
@@ -51,7 +53,7 @@
         "paths": {
             "linux": [],
             "osx": [
-                "$HOME/.rbenv/bin",
+                "$HOME/.local/bin",
                 "/usr/local/share/python",
                 "/usr/local/share/npm/bin",
                 "/usr/local/bin",
@@ -64,7 +66,10 @@
         },
         "python_paths": {
             "linux": [],
-            "osx": [],
+            "osx": [
+                "$HOME/.local/bin",
+                "/usr/local/share/python"
+            ],
             "windows": []
         },
         "rc_search_limit": 3,

@@ -1,17 +1,25 @@
 {
 	"auto_upgrade_frequency": 0,
 	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
 		"Anaconda",
 		"Better CoffeeScript",
+		"Better TypeScript",
+		"C# Snippets",
 		"F#",
 		"Git",
 		"GitGutter",
 		"InfoProjects-SublimeText",
 		"Jinja2",
+		"Kulture",
 		"LESS",
+		"Markdown Preview",
+		"OmniSharp",
 		"Open-Include",
 		"Package Control",
 		"ReactJS",

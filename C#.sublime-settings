@@ -1,5 +1,16 @@
 {
-  "auto_complete": true,
-  "auto_complete_selector": "source - comment",
-  "auto_complete_triggers": [ {"selector": "source.cs", "characters": ".<"} ],
+	"auto_complete": true,
+	"auto_complete_selector": "source - comment",
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".<",
+			"selector": "source.cs"
+		}
+	],
+	"extensions":
+	[
+		"csx",
+		"cake"
+	]
 }

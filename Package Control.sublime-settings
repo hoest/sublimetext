@@ -1,6 +1,7 @@
 {
 	"auto_upgrade_frequency": 0,
 	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -9,12 +10,12 @@
 		"AdvancedNewFile",
 		"Anaconda",
 		"Better CoffeeScript",
-		"Better TypeScript",
 		"C# Snippets",
 		"F#",
 		"Git",
 		"GitGutter",
 		"InfoProjects-SublimeText",
+		"Jade",
 		"Jinja2",
 		"Kulture",
 		"LESS",
@@ -22,9 +23,11 @@
 		"OmniSharp",
 		"Open-Include",
 		"Package Control",
+		"PowerShell",
+		"Razor",
 		"ReactJS",
-		"Sass",
 		"Solarized Color Scheme",
+		"Stylus",
 		"SublimeLinter",
 		"SublimeLinter-coffee",
 		"SublimeLinter-csslint",
@@ -32,13 +35,11 @@
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
 		"SublimeLinter-xmllint",
-		"SublimeXDL",
 		"Theme - Soda",
 		"XSLT Snippets"
 	],
 	"repositories":
 	[
-		"https://github.com/hoest/SublimeXDL",
 		"https://github.com/hoest/InfoProjects-SublimeText.git"
 	]
 }

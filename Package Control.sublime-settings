@@ -23,7 +23,6 @@
 		"Open-Include",
 		"Package Control",
 		"ReactJS",
-		"Sass",
 		"Solarized Color Scheme",
 		"SublimeLinter",
 		"SublimeLinter-coffee",
@@ -32,13 +31,11 @@
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
 		"SublimeLinter-xmllint",
-		"SublimeXDL",
 		"Theme - Soda",
 		"XSLT Snippets"
 	],
 	"repositories":
 	[
-		"https://github.com/hoest/SublimeXDL",
 		"https://github.com/hoest/InfoProjects-SublimeText.git"
 	]
 }

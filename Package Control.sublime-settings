@@ -31,11 +31,11 @@
 		"Stylus",
 		"SublimeLinter",
 		"SublimeLinter-coffee",
+		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-csslint",
 		"SublimeLinter-flake8",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
-		"SublimeLinter-jsxhint",
 		"SublimeLinter-xmllint",
 		"Theme - Soda",
 		"XSLT Snippets"

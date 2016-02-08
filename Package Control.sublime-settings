@@ -9,6 +9,7 @@
 	[
 		"AdvancedNewFile",
 		"Anaconda",
+		"Babel",
 		"Better CoffeeScript",
 		"C# Snippets",
 		"F#",
@@ -34,6 +35,7 @@
 		"SublimeLinter-flake8",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
+		"SublimeLinter-jsxhint",
 		"SublimeLinter-xmllint",
 		"Theme - Soda",
 		"XSLT Snippets"

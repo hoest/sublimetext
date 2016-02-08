@@ -29,7 +29,8 @@
                 "jobs": "1",
                 "max-complexity": -1,
                 "max-line-length": null,
-                "select": ""
+                "select": "",
+                "show-code": false
             },
             "jshint": {
                 "@disable": false,

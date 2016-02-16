@@ -12,6 +12,18 @@
 	"enable_telemetry": false,
 	"ensure_newline_at_eof_on_save": true,
 	"fallback_encoding": "utf-8",
+	"file_exclude_patterns":
+	[
+		"*.dat",
+		"*.dll",
+		"*.exe",
+		"*.obj",
+		"*.pdb",
+		"*.pyc",
+		"*.pyo",
+		"*.suo",
+		".DS_Store"
+	],
 	"find_selected_text": true,
 	"folder_exclude_patterns":
 	[

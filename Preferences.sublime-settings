@@ -15,22 +15,26 @@
 	"file_exclude_patterns":
 	[
 		"*.dat",
+		"*.db",
 		"*.dll",
 		"*.exe",
 		"*.obj",
 		"*.pdb",
+		"*.psd",
 		"*.pyc",
 		"*.pyo",
+		"*.sublime-workspace",
 		"*.suo",
 		".DS_Store"
 	],
 	"find_selected_text": true,
 	"folder_exclude_patterns":
 	[
-		".svn",
 		".git",
 		".hg",
-		"CVS"
+		".svn",
+		"CVS",
+		"node_modules"
 	],
 	"font_options":
 	[

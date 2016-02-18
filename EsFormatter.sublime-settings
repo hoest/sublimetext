@@ -1,4 +1,11 @@
 {
-  // Format the file when saved
-  "format_on_save": true
+  "format_on_save": true,
+  "format_options": {
+    "lineBreak": {
+      "before": {
+        "ElseIfStatement": ">=1",
+        "ElseStatement": ">=1"
+      }
+    }
+  }
 }

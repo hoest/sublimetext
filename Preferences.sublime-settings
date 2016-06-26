@@ -36,6 +36,7 @@
 		"CVS",
 		"node_modules"
 	],
+	"font_face": "Hack",
 	"font_options":
 	[
 		"directwrite"

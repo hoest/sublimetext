@@ -7,6 +7,21 @@
         "gutter_theme_excludes": [],
         "lint_mode": "background",
         "linters": {
+            "annotations": {
+                "@disable": false,
+                "args": [],
+                "errors": [
+                    "FIXME"
+                ],
+                "excludes": [],
+                "warnings": [
+                    "NOTE",
+                    "README",
+                    "TODO",
+                    "XXX",
+                    "@todo"
+                ]
+            },
             "coffee": {
                 "@disable": false,
                 "args": [],
@@ -20,17 +35,29 @@
                 "ignore": "",
                 "warnings": ""
             },
+            "eslint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
             "flake8": {
                 "@disable": false,
                 "args": [],
                 "builtins": "",
                 "excludes": [],
+                "executable": "",
                 "ignore": "E111,E501,E391,E121",
                 "jobs": "1",
                 "max-complexity": -1,
                 "max-line-length": null,
                 "select": "",
                 "show-code": false
+            },
+            "flow": {
+                "@disable": false,
+                "args": [],
+                "excludes": [],
+                "show-all-errors": true
             },
             "jshint": {
                 "@disable": false,

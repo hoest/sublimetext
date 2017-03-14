@@ -4,7 +4,7 @@
 	"auto_complete_with_fields": true,
 	"bold_folder_labels": true,
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/gruvbox/gruvbox (Dark) (Hard).tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"detect_indentation": false,
 	"dictionary": "Packages/User/Dutch.dic",
 	"drag_text": false,
@@ -63,7 +63,7 @@
 	"show_encoding": true,
 	"show_line_endings": true,
 	"tab_size": 2,
-	"theme": "gruvbox (Dark) (Hard).sublime-theme",
+	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true

@@ -8,7 +8,6 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
-		"Anaconda",
 		"AutoFileName",
 		"Babel",
 		"Babel Snippets",
@@ -40,6 +39,7 @@
 		"SublimeLinter-contrib-eslint_d",
 		"SublimeLinter-csslint",
 		"SublimeLinter-flake8",
+		"SublimeLinter-flow",
 		"SublimeLinter-json",
 		"SublimeLinter-xmllint",
 		"Terminal",

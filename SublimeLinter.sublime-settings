@@ -40,6 +40,11 @@
                 "args": [],
                 "excludes": []
             },
+            "eslint_d": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
             "flake8": {
                 "@disable": false,
                 "args": [],
@@ -76,7 +81,7 @@
                 "excludes": []
             }
         },
-        "mark_style": "outline",
+        "mark_style": "solid underline",
         "no_column_highlights_line": false,
         "passive_warnings": false,
         "paths": {

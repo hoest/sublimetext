@@ -36,6 +36,11 @@
 		"CVS",
 		"node_modules"
 	],
+	"font_options":
+	[
+		"gray_antialias",
+		"subpixel_antialias"
+	],
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -49,8 +54,8 @@
 	],
 	"indent_subsequent_lines": true,
 	"indent_to_bracket": true,
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "enabled",
 	"remember_full_screen": true,

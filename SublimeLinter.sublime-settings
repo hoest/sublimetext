@@ -75,6 +75,11 @@
                 "excludes": [],
                 "strict": true
             },
+            "sass": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
             "xmllint": {
                 "@disable": false,
                 "args": [],

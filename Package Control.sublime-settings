@@ -18,7 +18,6 @@
 		"Git",
 		"GitGutter",
 		"HTML5",
-		"InfoProjects-SublimeText",
 		"Jade",
 		"Jinja2",
 		"JsPrettier",
@@ -43,9 +42,5 @@
 		"SublimeLinter-xmllint",
 		"Theme - Soda",
 		"XSLT Snippets"
-	],
-	"repositories":
-	[
-		"https://github.com/hoest/InfoProjects-SublimeText.git"
 	]
 }

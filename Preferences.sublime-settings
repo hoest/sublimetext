@@ -4,7 +4,7 @@
 	"auto_complete_with_fields": true,
 	"bold_folder_labels": true,
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/SublimeLinter/Oceanic Next (SL).tmTheme",
+	"color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
 	"detect_indentation": false,
 	"dictionary": "Packages/User/Dutch.dic",
 	"drag_text": false,

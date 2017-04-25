@@ -1,2 +1,6 @@
 /*.last-run
 /Package Control.cache
+*.crt
+*.merged-ca-bundle
+*.user-ca-bundle
+/SublimeLinter

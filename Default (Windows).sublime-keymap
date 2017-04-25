@@ -1,7 +1,0 @@
-[
-  { "keys": ["ctrl+i"], "command": "show_panel", "args": {"panel": "find", "reverse": false} },
-  { "keys": ["ctrl+f"], "command": "show_panel", "args": {"panel": "incremental_find", "reverse": false} },
-  { "keys": ["ctrl+w"], "command": "close_file" },
-  { "keys": ["alt+f4"], "command": "close" },
-  { "keys": ["alt+ctrl+p"], "command": "prompt_select_workspace" }
-]

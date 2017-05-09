@@ -4,3 +4,4 @@
 *.merged-ca-bundle
 *.user-ca-bundle
 /SublimeLinter
+.DS_Store

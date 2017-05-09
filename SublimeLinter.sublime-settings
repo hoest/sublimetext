@@ -62,6 +62,7 @@
                 "@disable": false,
                 "args": [],
                 "excludes": [],
+                "flow-bin": null,
                 "show-all-errors": true
             },
             "jshint": {
@@ -86,7 +87,7 @@
                 "excludes": []
             }
         },
-        "mark_style": "solid underline",
+        "mark_style": "outline",
         "no_column_highlights_line": false,
         "passive_warnings": false,
         "paths": {
@@ -119,6 +120,7 @@
             "html (django)": "html",
             "html (rails)": "html",
             "html 5": "html",
+            "javascript (babel)": "javascript",
             "php": "html",
             "python django": "python",
             "xdl": "xml",

@@ -1,4 +1,5 @@
 [
+  { "keys": ["super+ctrl+p"], "command": "prompt_select_workspace" },
   { "keys": ["super+ctrl+shift+up"], "command": "select_lines", "args": {"forward": false} },
   { "keys": ["super+ctrl+shift+down"], "command": "select_lines", "args": {"forward": true} },
 ]

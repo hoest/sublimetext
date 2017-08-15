@@ -32,7 +32,7 @@
 		"SublimeLinter",
 		"SublimeLinter-annotations",
 		"SublimeLinter-coffee",
-		"SublimeLinter-contrib-eslint_d",
+		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-contrib-sass-lint",
 		"SublimeLinter-csslint",
 		"SublimeLinter-flake8",

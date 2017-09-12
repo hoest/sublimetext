@@ -1,4 +1,19 @@
 {
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".",
+			"selector": "source.js"
+		},
+		{
+			"characters": ".",
+			"selector": "source.ts"
+		},
+		{
+			"characters": "<",
+			"selector": "text.html"
+		}
+	],
 	"color_scheme": "Packages/User/SublimeLinter/Mariana (SL).tmTheme",
 	"detect_indentation": false,
 	"dictionary": "Packages/User/Dutch.dic",

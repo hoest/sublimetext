@@ -29,6 +29,7 @@
 		"CVS",
 		"node_modules"
 	],
+	"font_face": "Fira Code",
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -41,6 +42,7 @@
 		"draw_active"
 	],
 	"indent_to_bracket": true,
+	"mdpopups.use_sublime_highlighter": true,
 	"open_files_in_new_window": false,
 	"rulers":
 	[

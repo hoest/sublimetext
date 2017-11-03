@@ -12,6 +12,10 @@
 		{
 			"characters": "<",
 			"selector": "text.html"
+		},
+		{
+			"characters": ".<",
+			"selector": "source.cs"
 		}
 	],
 	"color_scheme": "Packages/User/SublimeLinter/Mariana (SL).tmTheme",
@@ -29,7 +33,6 @@
 		"CVS",
 		"node_modules"
 	],
-	"font_face": "Fira Code",
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":

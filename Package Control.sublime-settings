@@ -28,8 +28,8 @@
 		"Stylus",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
+		"SublimeLinter-contrib-eslint_d",
 		"SublimeLinter-csslint",
-		"SublimeLinter-eslint",
 		"SublimeLinter-json",
 		"SublimeLinter-xmllint",
 		"XSLT Snippets"

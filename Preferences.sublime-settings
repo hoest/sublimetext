@@ -18,7 +18,7 @@
 			"selector": "source.cs"
 		}
 	],
-	"color_scheme": "Packages/User/SublimeLinter/Mariana (SL).tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
 	"detect_indentation": false,
 	"dictionary": "Packages/User/Dutch.dic",
 	"drag_text": false,

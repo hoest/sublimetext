@@ -20,26 +20,24 @@
 		}
 	],
 	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
-	"detect_indentation": false,
 	"dictionary": "Packages/User/Dutch.dic",
 	"drag_text": false,
+	"draw_minimap_border": true,
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
-	"fallback_encoding": "UTF-8",
 	"folder_exclude_patterns":
 	[
 		".git",
 		".hg",
+		".idea",
 		".svn",
+		".vs",
+		".vscode",
 		"CVS",
 		"node_modules"
 	],
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
 	"indent_guide_options":
 	[
 		"draw_normal",
@@ -51,7 +49,7 @@
 	"rulers":
 	[
 		72,
-		79,
+		80,
 		120
 	],
 	"show_encoding": true,
@@ -59,6 +57,5 @@
 	"tab_size": 2,
 	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true
+	"trim_trailing_white_space_on_save": true
 }

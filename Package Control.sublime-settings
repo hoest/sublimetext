@@ -7,7 +7,6 @@
 	],
 	"installed_packages":
 	[
-		"AdvancedNewFile",
 		"AutoFileName",
 		"Babel",
 		"Babel Snippets",
@@ -29,7 +28,7 @@
 		"SublimeLinter",
 		"SublimeLinter-annotations",
 		"SublimeLinter-contrib-eslint_d",
-		"SublimeLinter-csslint",
+		"SublimeLinter-contrib-stylelint_d",
 		"SublimeLinter-json",
 		"SublimeLinter-xmllint",
 		"XSLT Snippets"

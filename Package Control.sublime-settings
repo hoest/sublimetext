@@ -18,6 +18,7 @@
 		"GitGutter",
 		"HTML5",
 		"ImportJS",
+		"JavaScript Enhancements",
 		"JsPrettier",
 		"LESS",
 		"LSP",
@@ -28,9 +29,9 @@
 		"Stylus",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
-		"SublimeLinter-contrib-eslint_d",
-		"SublimeLinter-contrib-stylelint_d",
+		"SublimeLinter-eslint",
 		"SublimeLinter-json",
+		"SublimeLinter-stylelint",
 		"SublimeLinter-xmllint",
 		"XSLT Snippets"
 	]

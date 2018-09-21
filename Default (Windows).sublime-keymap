@@ -1,3 +1,9 @@
 [
-  { "keys": ["alt+ctrl+p"], "command": "prompt_select_workspace" }
+  { "keys": ["alt+ctrl+p"], "command": "prompt_select_workspace" },
+
+  // Go To Definition (LSP)
+  { "keys": ["f12"], "command": "lsp_symbol_definition" },
+
+  // Rename Symbol (LSP)
+  { "keys": ["f2"], "command": "lsp_symbol_rename" }
 ]

@@ -1,0 +1,27 @@
+// Settings in here override those in "LSP/LSP.sublime-settings",
+
+{
+  "clients": {
+    "js": {
+      "command": ["lsp-tsserver.cmd"],
+      "enabled": true,
+      "languageId": "javascript",
+      "scopes": ["source.js", "source.jsx"],
+      "syntaxes": [
+        "Packages/JavaScript/JavaScript.sublime-syntax",
+        "Packages/Naomi/syntaxes/naomi.fjsx15.sublime-syntax",
+        "Packages/Babel/JavaScript (Babel).sublime-syntax"
+      ]
+    },
+    "jsts": {
+      "command": ["lsp-tsserver.cmd"],
+      "enabled": true,
+      "languageId": "typescript",
+      "scopes": ["source.ts", "source.tsx"],
+      "syntaxes": [
+        "Packages/TypeScript-TmLanguage/TypeScript.tmLanguage",
+        "Packages/TypeScript-TmLanguage/TypeScriptReact.tmLanguage"
+      ]
+    }
+  }
+}

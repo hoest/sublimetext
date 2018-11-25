@@ -28,6 +28,7 @@
 		"SublimeLinter-json",
 		"SublimeLinter-stylelint",
 		"SublimeLinter-xmllint",
+		"TypeScript",
 		"XSLT Snippets"
 	]
 }

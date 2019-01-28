@@ -1,5 +1,15 @@
 {
   "live_mode": false,
   "focus_change_mode": false,
-  "non_blocking": true
+  "non_blocking": true,
+  "protected_regions": [
+    "sublimelinter-warning-gutter-marks",
+    "sublimelinter-error-gutter-marks",
+    "sublime_linter.protected_regions",
+    "bookmarks",
+    "lsp_error",
+    "lsp_warning",
+    "lsp_info",
+    "lsp_bulb"
+  ]
 }

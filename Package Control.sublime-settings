@@ -8,8 +8,6 @@
 	"installed_packages":
 	[
 		"AutoFileName",
-		"Babel",
-		"Cucumber",
 		"EditorConfig",
 		"GitGutter",
 		"JsPrettier",
@@ -26,6 +24,6 @@
 		"SublimeLinter-stylelint",
 		"SublimeLinter-xmllint",
 		"TypeScript",
-		"XSLT Snippets"
-	]
+		"XSLT Snippets",
+	],
 }

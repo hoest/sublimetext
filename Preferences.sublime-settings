@@ -1,4 +1,6 @@
 {
+	"caret_style": "smooth",
+	"hardware_acceleration": "opengl",
 	"auto_complete_triggers":
 	[
 		{

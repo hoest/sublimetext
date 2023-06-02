@@ -11,7 +11,6 @@
 		"GitGutter",
 		"GraphQL",
 		"JsPrettier",
-		"LESS",
 		"LSP",
 		"LSP-css",
 		"LSP-eslint",
@@ -25,5 +24,6 @@
 		"Package Control",
 		"PowerShell",
 		"Sass",
+		"Less",
 	],
 }
